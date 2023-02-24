@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+}
+    
+p{
+    color: purple;
+}
+
+#segundo{
+    background-color: rgba(3, 217, 245, 0.733);
+    color: rgb(148, 36, 163);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+}
+#terceiro{
+    background-color: rgba(128, 3, 245, 0.733);
+    color: rgb(255, 238, 0);
+    border: 6px solid black;
+    border-radius: 12px;
+    font-size: 50px;  
+}
+.qualquer{
+    background-color: rgba(3, 217, 245, 0.733);
+    color: rgb(29, 29, 4);
+    font-weight: bold;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    font-size: 50px;
+}
+
